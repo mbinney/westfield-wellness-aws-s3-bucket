@@ -1,0 +1,11 @@
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\bin\Debug\netcoreapp2.0\S3Bucket.deps.json
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\bin\Debug\netcoreapp2.0\S3Bucket.runtimeconfig.json
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\bin\Debug\netcoreapp2.0\S3Bucket.runtimeconfig.dev.json
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\bin\Debug\netcoreapp2.0\S3Bucket.dll
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\bin\Debug\netcoreapp2.0\S3Bucket.pdb
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.csprojResolveAssemblyReference.cache
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.csproj.CoreCompileInputs.cache
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.AssemblyInfoInputs.cache
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.AssemblyInfo.cs
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.dll
+C:\GIT\westfield-wellness-aws-s3-bucket\S3Bucket\obj\Debug\netcoreapp2.0\S3Bucket.pdb
