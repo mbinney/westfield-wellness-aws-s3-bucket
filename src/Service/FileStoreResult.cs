@@ -4,7 +4,7 @@ using System.Text;
 
 namespace S3Bucket.Service
 {
-    class FileStoreResult
+    public class FileStoreResult
     {
         public string BucketName { get; set; }
         public string BucketKey { get; set; }

@@ -4,8 +4,8 @@ using System.Text;
 
 namespace S3Bucket.Service
 {
-    interface IDocumentStoreService
+    interface IFileAccessService 
     {
-        Boolean UploadFileAsync();
+        bool CheckAccessRight();     
     }
 }

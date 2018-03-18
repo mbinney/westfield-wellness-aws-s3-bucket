@@ -5,7 +5,7 @@ using System.Collections;
 
 namespace S3Bucket.Service
 {
-    public class DocumentAccessService : IDocumentAccessService
+    public class FileAccessService : IFileAccessService
     {
         public bool CheckAccessRight()
         {
